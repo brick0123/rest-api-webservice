@@ -1,4 +1,4 @@
-package com.woodcock.restapidemo;
+package com.woodcock;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
